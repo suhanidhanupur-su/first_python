@@ -1,4 +1,4 @@
-print("hellow world")#string
+#string
 
 str1 = 'Tridev Sharma'
 str2 = "Tridev Sharma"
@@ -55,6 +55,4 @@ elif(mark >= 70 and mark <= 80):
 elif(mark <= 69):
     mark = "D"
 
-print(mark) 
-
-print("suhani")
+print(mar
