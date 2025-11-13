@@ -1,8 +1,8 @@
 #string
 
-str1 = 'Tridev Sharma'
-str2 = "Tridev Sharma"
-str3 = """Tridev Sharma"""
+str1 = 'suhani kumari'
+str2 = "suhani kumari"
+str3 = """suhani kumari"""
 
 print(str1 + " " + str2)
 print(len(str1 + str2 + str3)) #length
@@ -13,7 +13,7 @@ print(str1.endswith("ma")) #checking
 
 print(str2.capitalize()) #capitalize
 
-print(str3.replace("Tridev" , "Prem")) #Replacing
+print(str3.replace("suhani" , "nisha")) #Replacing
 
 print(str1.find('v')) 
 
