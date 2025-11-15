@@ -103,7 +103,7 @@ print(str2.count('a'))
 
 #conditional Statment
 
-a = int(input("First No "))
+a = int(input("First Number "))
 b = int(input("Second No "))
 
 s = (input("Choose Simble "))
